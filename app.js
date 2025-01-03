@@ -1,3 +1,3 @@
 const imeFunkcije = () => {
-    console.log("proba")
+    console.log("proba da vidimo kako radi")
 } 
